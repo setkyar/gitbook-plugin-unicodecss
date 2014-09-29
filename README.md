@@ -1,20 +1,25 @@
-## plugin-zawgyicss
 
-To support zawgyi font family and font embed in gitbook web version.
+## plugin-unicodecss
+
+To support unicode font family and font embed in gitbook web version.
 
 
 ### To Install
 
 ```
-npm install plugin-zawgyicss
+npm install plugin-unicodecss
 ```
 
 In `book.json` ,
 
-add `plugin-zawgyicss` in `plugins`
+add `plugin-unicodecss` in `plugins`
 
 ```
 "plugins": [
-      "plugin-zawgyicss"
+      "plugin-unicodecss"
       ]
 ```
+
+### Created by
+
+Originally Created by [saturngod](https://github.com/saturngod) , modified by [Set Kyar Wa Lar](https://github.com/setkyar)
