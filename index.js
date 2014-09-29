@@ -4,7 +4,7 @@ module.exports = {
         js: [
         ],
         css: [
-            "zawgyi.css"
+            "unicode.css"
         ]
     }
 };
