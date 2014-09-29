@@ -6,13 +6,13 @@
   "engines": {
     "gitbook": ">=0.4.6"
   },
-  "homepage": "https://github.com/setkyar/plugin-unicodecss",
+  "homepage": "https://github.com/setkyar/gitbook-plugin-unicodecss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/setkyar/plugin-unicodecss"
+    "url": "https://github.com/setkyar/gitbook-plugin-unicodecss"
   },
   "keywords": [
     "gitbookio",
@@ -23,6 +23,6 @@
   "author": "saturngod, modified by Set Kyar Wa lar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/setkyar/plugin-unicodecss/issues"
+    "url": "https://github.com/setkyar/gitbook-plugin-unicodecss/issues"
   }
 }
