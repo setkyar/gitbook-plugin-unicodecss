@@ -1,25 +1,19 @@
 
-## gitbook-plugin-unicodecss
+## gitbook-plugin-notocjk
 
-To support unicode font family and font embed in gitbook web version.
+To support Noto CJK font family and font embed in gitbook web version.
+Headings for { font-family: 'cwTeXYen', sans-serif; }
+Paragraph for { font-family: 'Noto Sans TC', sans-serif; }
 
 
 ### To Install
 
-```
-npm install gitbook-plugin-unicodecss
-```
-
-In `book.json` ,
-
-add `gitbook-plugin-unicodecss` in `plugins`
+add `notocjk` to `book.json` in `plugins`
 
 ```
-"plugins": [
-      "gitbook-plugin-unicodecss"
-      ]
+"plugins": [ "notocjk" ]
 ```
 
-### Created by
+### Forked from
 
-Originally Created by [saturngod](https://github.com/saturngod) , modified by [Set Kyar Wa Lar](https://github.com/setkyar)
+[gitbook-plugin-unicodecss](https://github.com/setkyar/gitbook-plugin-unicodecss)
