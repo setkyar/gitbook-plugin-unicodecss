@@ -1,18 +1,18 @@
 {
-  "name": "gitbook-plugin-unicodecss",
-  "description": "Change to unicode font family",
+  "name": "gitbook-plugin-notocjk",
+  "description": "Change to Noto CJK font family",
   "main": "index.js",
-  "version": "0.0.8",
+  "version": "0.0.1",
   "engines": {
     "gitbook": ">=0.4.6"
   },
-  "homepage": "https://github.com/setkyar/gitbook-plugin-unicodecss",
+  "homepage": "https://github.com/ycku/gitbook-plugin-notocjk/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/setkyar/gitbook-plugin-unicodecss"
+    "url": "https://github.com/ycku/gitbook-plugin-notocjk/"
   },
   "keywords": [
     "gitbookio",
@@ -20,9 +20,9 @@
     "unicode",
     "plugin"
   ],
-  "author": "saturngod, modified by Set Kyar Wa lar",
+  "author": "YC.KU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/setkyar/gitbook-plugin-unicodecss/issues"
+    "url": "https://github.com/ycku/gitbook-plugin-notocjk/issues"
   }
 }
