@@ -4,7 +4,7 @@ module.exports = {
         js: [
         ],
         css: [
-            "unicode.css"
+            "fontfamily.css"
         ]
     }
 };
